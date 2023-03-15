@@ -1,0 +1,15 @@
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/bin/Debug/net7.0/task 2
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/bin/Debug/net7.0/task 2.deps.json
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/bin/Debug/net7.0/task 2.runtimeconfig.json
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/bin/Debug/net7.0/task 2.dll
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/bin/Debug/net7.0/task 2.pdb
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.csproj.AssemblyReference.cache
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.AssemblyInfoInputs.cache
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.AssemblyInfo.cs
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.csproj.CoreCompileInputs.cache
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.dll
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/refint/task 2.dll
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.pdb
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/task 2.genruntimeconfig.cache
+/Users/irenedeykun/Desktop/Учеба/hwcs9/task 2/obj/Debug/net7.0/ref/task 2.dll
