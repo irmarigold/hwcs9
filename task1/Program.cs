@@ -6,8 +6,8 @@
 }
 
 Console.Clear();
-Console.Write("Input M");
+Console.Write("Input M: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("nput N");
+Console.Write("Input N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.Write(PlusElem(n,m));
